@@ -95,7 +95,7 @@ public class Node {
 
     public Color TEXT_COLOR              = Color.white;
 
-    public static Font TEXT_FONT = new Font("Verdana",Font.PLAIN,10);
+    public static Font TEXT_FONT = new Font("ËÎÌו",Font.PLAIN,11);
 
     public static int DEFAULT_TYPE = 1;
 

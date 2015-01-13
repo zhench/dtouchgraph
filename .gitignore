@@ -52,3 +52,6 @@ hs_err_pid*
 
 # xtm
 *.xtm
+
+#mgc
+*.mgc
